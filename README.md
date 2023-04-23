@@ -1,7 +1,6 @@
 # Roblox AI
 
-Hello! This is a version of an Open source AI that I call 'ro.AI' this AI, will be trained to run inside a game called 'FNAF: Coop' (Hints a version (ro.AI v1fnaf))
-This may not be able to complete all nights, but I will try and work on it so it will be able to beat all FNAF games, atleast the 2nd night (most of the 1st nights are too easy)
+Hello! This is a version of an Open source AI that I call 'ro.AI.'
 
 # How to Install
 
